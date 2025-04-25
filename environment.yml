@@ -1,0 +1,6 @@
+name: my-package
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - pip
